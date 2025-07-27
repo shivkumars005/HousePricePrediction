@@ -19,7 +19,7 @@ A machine learning-based web app that predicts **house prices** from user-provid
 ## 💠 Setup
 
 ```bash
-git clone https://github.com/shivkumars005/HousePricePrediction
+git clone https://github.com/shivakumarsouta/HousePricePrediction
 cd HousePricePrediction
 pip install -r requirements.txt
 ```
